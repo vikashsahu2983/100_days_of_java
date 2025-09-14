@@ -1,2 +1,2 @@
 # 100_days_of_java
-100 Days of Java is my personal coding challenge where I practice Java every day for 100 days. This repository contains programs based on different Java concepts . By the end of this challenge, I’ll have 100+ Java codes covering both basics and advanced concepts.
+100 Days of Java is my personal coding challenge to practice Java daily. This repo will have 100+ programs covering basics to advanced concepts with problem statements and solutions. All questions are based on real-life problem scenarios instead of dummy examples, making the challenge practical and meaningful.
