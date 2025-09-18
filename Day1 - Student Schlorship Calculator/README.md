@@ -9,11 +9,11 @@ and roll number. • calculatePercentage0 method that returns the average percen
 • checkScholarship() method that applies rules:
 
 SchlorShip Criteria 
-______________________________
+_____________________________
 90-100% --> Full Scholarship 
 75—89%  --> Half Scholarship 
 0 - 75% --> No Scholarship
-______________________________
+_____________________________
 
 
 Sample Input :--
