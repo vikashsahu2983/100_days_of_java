@@ -21,7 +21,7 @@ int connections (starts from 0)
 String universityName
 
 3. LinkedIn class :-
-   ------------------
+   -----------------
 Static Scanner sc for user input.
 Methods:
 static void createProfile(Profile p, Address a)
