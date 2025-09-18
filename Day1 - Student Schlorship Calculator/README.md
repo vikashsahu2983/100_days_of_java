@@ -16,7 +16,7 @@ _____________________________
 _____________________________
 
 
-Sample Input :--
+Sample Input :-
 Name: Aarav Roll: 101 Marks: 95 88 92 85 91 
-Sample Output :--
+Sample Output :-
 Student: Aarav (Roll: 101) College: VITS Percentage: 90.2 Scholarship: Full
