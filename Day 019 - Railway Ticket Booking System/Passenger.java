@@ -104,3 +104,31 @@ public class TrainTicket{
 }
 
 
+/*sample input Output-----
+
+welcome to the indian reilways
+ticket booking page
+passenger name : vikash sahu
+passenger age : 22
+Train number : 78545
+enter origin Station : satna
+Enter destination Station : banglore
+Total distance : 1800
+enter class of ticket : first Ac
+
+
+-----ticket detail-----
+name : vikash sahu
+age : 22
+Train Number : 78545
+Origin : satna
+destination : banglore
+class : first Ac
+Total distance : 1800
+Total Ammount : 1500.0
+discount ammount : 225.0
+Ammount to be paid : 1275.0
+thank for using Indian Railways
+
+*/
+
