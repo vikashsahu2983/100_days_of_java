@@ -3,6 +3,10 @@ _________________________________________________________
 Problem Statement:
 Design a program for a Water Bill Management System that calculates the monthly water bill for a household based on water consumption and also maintains customer details.
 
+
+<img width="426" height="708" alt="image" src="https://github.com/user-attachments/assets/186749a5-a04c-43c1-81d4-f1b2975cff1f" />
+
+
 The system should:
 Take customer details as input:
 Customer Name
@@ -67,3 +71,6 @@ Address           : 12/A, Gandhi Nagar, Bhopal
 Water Consumed    : 550 liters
 Total Amount      : ₹2750
 ------------------------------------
+
+
+
