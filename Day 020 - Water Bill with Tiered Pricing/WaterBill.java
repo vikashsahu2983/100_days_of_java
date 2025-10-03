@@ -99,7 +99,7 @@ enter the total water consumption : 850
 
 
 
--------------WATER BILL----------------
+-------------WATER BILL---------------
 ---------------------------------------
 Customer name : vikash sahu
 House Number : tikuriya toka satna 
