@@ -2,6 +2,9 @@ Day 022 - Program - Smart Car Loan EMI Estimator
 ___________________________________________________
 You need to write a Java program that calculates the monthly EMI (Equated Monthly Installment) for a car loan using a class called Car.
 
+<img width="419" height="534" alt="image" src="https://github.com/user-attachments/assets/f4283cbd-9766-48ed-a086-78c2225a2be1" />
+
+
 🚗 What You Need to Do
 You must create a Car class with:
 
