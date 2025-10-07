@@ -24,29 +24,24 @@ Enter Humidity (in %): 70
 
 
 📤 Sample Output 1:
-
 Weather Alert: Heat Alert
 
 
 📥 Sample Input 2:
-
 Enter Temperature (in °C): 28
 Enter Humidity (in %): 85
 
 
 📤 Sample Output 2:
-
 Weather Alert: Rain Alert
 
 
 📥 Sample Input 3:
-
 Enter Temperature (in °C): 30
 Enter Humidity (in %): 60
 
 
 📤 Sample Output 3:
-
 Weather Alert: Normal Day
 
 
