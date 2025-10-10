@@ -44,3 +44,4 @@ Enter AQI value: 250
 
 Sample Output 3:
 Air Quality is Hazardous.
+---------------------------------------------
