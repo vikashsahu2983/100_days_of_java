@@ -1,6 +1,6 @@
 Day 029 - Program -  Stock Profit-Loss Analyzer
 __________________________________________________
-<img width="494" height="489" alt="image" src="https://github.com/user-attachments/assets/f0fd0e4b-a60d-4682-8259-f9a037e48418" />
+<img width="476" height="604" alt="image" src="https://github.com/user-attachments/assets/333842f7-8dbe-418d-9dbd-8dca436d2329" />
 
 __________________________________________________
 Problem Statement
